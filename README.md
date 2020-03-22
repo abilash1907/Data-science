@@ -13,7 +13,8 @@ Using the information given, predict the probability of a customer defaulting in
 
 About Data Source:
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.)
-Data Dictionary
+<br></br>
+<h1>Data Dictionary</h1><br></br>
 ID	Unique ID of each client
 LIMIT_BAL	Amount of given credit (NT dollars):  It includes both the individual consumer credit and his/her family (supplementary) credit 
 SEX	Gender (1=male, 2=female)
